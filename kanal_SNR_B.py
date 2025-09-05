@@ -62,7 +62,7 @@ def calculate_missing_variable(B=None, SNR=None, C=None):
     
     return {"B": B, "SNR": SNR, "C": C}
 
-# Example usage:
+# Primer uporabe:
 #result = calculate_missing_variable(B=2, SNR=None, C=3)
 #print(result)
 
